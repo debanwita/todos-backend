@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restful.web.services.helloworld.model;
+package com.in28minutes.rest.webservices.restful.web.services.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
